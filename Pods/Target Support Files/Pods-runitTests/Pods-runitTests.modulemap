@@ -1,0 +1,6 @@
+framework module Pods_runitTests {
+  umbrella header "Pods-runitTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
